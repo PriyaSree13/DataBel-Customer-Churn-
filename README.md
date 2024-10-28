@@ -2,7 +2,7 @@
 # Analyzing Customer Churn in POWER BI
 
 - Churn Definition : The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. There are multiple ways to calculate churn and it varies across the industries.
-- Simplified Formula : " Churn rate = customers lost / total number of customers "
+- Simplified Formula : Churn rate = customers lost / total number of customers
 - Attrition typically refers to the gradual reduction in the number of people, employees, or customers over time. In a business context, it often describes the rate at which employees leave a company or customers stop engaging with a business.
 ## Overview :
 
@@ -79,5 +79,3 @@ The Basic data analysis flow implemented:
 
 
 
-
-## Content
