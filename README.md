@@ -91,9 +91,7 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
 
 **Step 3) Validation**: Confirmed that the count of unique customers matched the total count of customers, resulting in a total of 6,687.
 
-<img width="160" alt="churnrate" src="https://github.com/user-attachments/assets/4795b011-3737-412a-8207-1cabd87661ad">
-
-
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/7ac5847f-1441-4e3c-868a-b33bf206717d">
 
 
 ### *EDA (Exploratory Data Analysis):* 
@@ -103,21 +101,22 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
 
 **Step 5)** Created a new measure to calculate the **Customer Churn Rate** using the churn rate formula.
 
-![CusotomerChurnrate](http://localhost:8000/churnrate.png) 
+<img width="193" alt="image" src="https://github.com/user-attachments/assets/dfe4cc86-b8bb-42fc-97df-a193cfa7401f">
 
 **Step 6)** Analyzed and determined the **Top 3 Reasons for Customer Churn**.
 
-![image](https://github.com/user-attachments/assets/d89c8a97-5b49-4208-b83e-69b8031c54f4)
+![image](https://github.com/user-attachments/assets/435a4952-bf03-408b-8557-f653625845c1)
 
 **Step 7)** Discover which **State Has the Highest Churn Rate** to identify regions needing targeted churn reduction strategies. Use map visualization to highlight results.
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
+![image](https://github.com/user-attachments/assets/8ebda3a9-1ad1-46ea-9011-71ae24b0c6b5)
 
 **Step 8)** **Key Insights Summary**
-   - **Overall Churn Rate**: The total churn rate discovered is XX% (insert actual percentage).
-   - **State with Highest Churn Rate**: The state with the highest churn rate is `State_Name` (insert the actual state name).
-   - **Top Reasons for Churn**: The leading factors identified for customer churn include [insert reasons here, e.g., poor service, pricing, etc.].
+   - **Overall Churn Rate**: The total churn rate discovered is 26.86%.
+   - **State with Highest Churn Rate**: The state with the highest churn rate is `California` with a churn rate of 63.24%.
+   - **Top Reasons for Churn**: The primary factor driving customer churn is competition, indicating that adverse effects from competitors significantly contribute to customers leaving.
 
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/d0d0b62f-4d0e-4b9b-9683-c51c94b7a44d">
 
 ### *Churn Rate Analysis:*
 
@@ -125,7 +124,7 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
 - **Analysis:** The churn rate across age bins reveals patterns of customer retention and attrition.
 - **Visualization:** Trend lines illustrate how age influences churn.
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
+![image](https://github.com/user-attachments/assets/1773aa02-d5cc-46d2-b48e-c9a5a04f4916)
 
 **Step 10)** Hypothesis Testing on Phone Bills
 - **Hypothesis:** Lower phone bills in group customers contribute significantly to churn.
