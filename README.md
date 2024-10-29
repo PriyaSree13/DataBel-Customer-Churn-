@@ -91,7 +91,7 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
 
 **Step 3) Validation**: Confirmed that the count of unique customers matched the total count of customers, resulting in a total of 6,687.
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
+<img width="160" alt="churnrate" src="https://github.com/user-attachments/assets/4795b011-3737-412a-8207-1cabd87661ad">
 
 
 
