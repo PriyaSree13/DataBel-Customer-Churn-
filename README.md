@@ -131,13 +131,13 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
 - **Outcome:** Statistical tests will verify or refute this correlation.
 - **Visualization:** Displays the relationship between phone bills and churn rates.
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
+![image](https://github.com/user-attachments/assets/cecf4c3b-6405-4601-b945-44306ddebfc8)
 
 **Step 11)** Analysis of International Calling Behavior
 - **Insight:** 72% of customers with international calling plans do not utilize them, indicating a potential area for improvement in customer engagement.
 - **Visual Representation:** Highlights the discrepancy between plan availability and usage.
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
+![image](https://github.com/user-attachments/assets/03bdf2d2-4373-47ee-9990-9514434c9763)
 
 **Step 12)** Customer Validity and Payment Analysis
 - **Focus Areas:**
@@ -146,14 +146,8 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
   - **Contract Types:** Comparison of monthly vs. yearly contracts.
 - **Visualization:** Presents a comprehensive view of customer behavior related to validity and payment choices.
 
+![image](https://github.com/user-attachments/assets/dc20a114-b408-4f7a-b585-72a95622edbb)
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
-
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
-
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
-
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
 
 
 
