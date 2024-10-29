@@ -107,7 +107,7 @@ In this project, we will analyze a fictional dataset from a telecom provider, Da
 
 **Step 6)** Analyzed and determined the **Top 3 Reasons for Customer Churn**.
 
-![Verification of Customer Count](http://localhost:8000/Screen%20Shot.png)
+![image](https://github.com/user-attachments/assets/d89c8a97-5b49-4208-b83e-69b8031c54f4)
 
 **Step 7)** Discover which **State Has the Highest Churn Rate** to identify regions needing targeted churn reduction strategies. Use map visualization to highlight results.
 
